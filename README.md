@@ -21,6 +21,10 @@ easydict
 
 3. "open video"
 
+## Model and TestVideo:
+
+链接: https://pan.baidu.com/s/1O2h2lsNYtgtdDGYQI7aG3Q 密码: gzdq
+
 ## Train:
 
 run train_and_detection/train.py
